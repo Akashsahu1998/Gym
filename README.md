@@ -10,6 +10,6 @@ I've also added the Animations for better UI.
 
 I used HTML, CSS for the website and JS for the animations.
 
-Click [here](https://akashsahu1998.github.io/Gym/) to visit my website.
+Click [here](https://akashsahu1998.github.io/Gym-Frontend-HTML-CSS/) to visit my website.
 
 # Thank You
